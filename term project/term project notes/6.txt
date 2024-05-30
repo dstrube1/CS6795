@@ -1,0 +1,27 @@
+"Scientists and laymen seem to agree on at least three important aspects of consciousness. First, only living animals can have consciousness ... With the possible exception of a computer of sufficient complexity so that consciousness may emerge from it ... Second, the contents of our consciousness can be shared with other human beings through acts of communication, which allows us to exchange thoughts, feelings, and ideas with others ... Third, the fact that an agent possesses consciousness in part shapes our moral attitude toward it"
+
+"what entitles us to ascribe consciousness (or lack thereof) to brain damaged patients who have lost all capabilities to communicate?"
+
+"One of several possible outcomes of coma is that the individual regains consciousness, but s/he remains completely paralyzed. This condition is known as locked-in-syndrome"
+
+"the tendency to ascribe consciousness and intentionality to non-conscious agents can be very strong ... if we are in the vicinity of a robot that follows our movements as we walk up and down a room by rotating its artificial head and eyes, we get the creepy feeling that we are being watched, even though we know at an abstract level that we are just dealing with a machine. Thus, if we witness an entity producing a set of coordinated movements that resemble purposeful movement, we are strongly inclined to evaluate these movements as originating from a conscious intentional agent."
+
+"An extreme outcome could be that we decide to withhold artificial feeding and hydration, as was done in the case of Terri Schiavo in 2005"
+
+"‘other minds problem’. The epistemologic challenge facing us is that we have no direct knowledge of the mental states of others, and we typically rely on linguistic utterances and gestures as a window into the contents of the minds of others."
+
+"The conceptual difficulties surrounding our inherent limitations in trying to assess consciousness in unresponsive patients have some unexpected parallels in the seemingly unrelated field of artificial intelligence"
+
+"The crucial point raised by Turing in his paper is that there exist inherent limitations in our ability to assess whether another agent is truly conscious, by means of a communication protocol. To make matters worse, the same problem exists when we are dealing face-to-face with other human beings; at best we can only infer the presence of consciousness in others. ... “it is usual to have the polite convention that everyone thinks.”"
+
+"does the absence of volitional movements necessarily imply an absence of consciousness?"
+
+"neural activation in response to different stimuli is assessed using standard neuroimaging techniques, such as the electro-encephalogram (EEG), positron emission tomography (PET) or functional magnetic resonance imaging (fMRI). "
+
+"neural processing in [a vegetative state] can be very similar to processing in conscious control subjects, which suggests some degree of intact cognitive functioning. ... neural activity in VS appears to remain ‘isolated’ in the nervous system, that is, neural activity is not integrated with other neural patterns within cortical association areas."
+
+"the consensus is that these brain patterns cannot be used as evidence of consciousness in these brains. For one, the neural correlate of consciousness has not yet been identified."
+
+"performed an fMRI study using a single female patient who had been in VS for 5 months, and they asked the woman to engage in one of several mental activities while she was being scanned. The woman received auditory instructions to either imagine herself playing tennis (a motor task), or to imagine herself walking through her house (a spatial navigation task) ... the differential pattern of brain activation in both conditions was indistinguishable from the neural signatures obtained with (conscious) control subjects. ... Despite the fact that [this woman] fulfilled all of the clinical criteria for a diagnosis of vegetative state, the patient retained the ability to understand spoken commands and respond to them through her brain activity, confirming beyond any doubt that she was consciously aware of herself and her surroundings. ... The fact that this woman had managed to convince others that she was conscious is tantamount to saying that she had passed the Turing test"
+
+"The challenge remains how the contents of the private mind in these patients can be made public."

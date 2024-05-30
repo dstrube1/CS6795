@@ -1,0 +1,14 @@
+what does GPT-3 do well? "create realistic yet surprising plots, recreate key stylistic and thematic traits of an author in just a few lines, experiment with form, write across a wide variety of genres, use temporal structure with surprising reversals, and reveal a fairly complex and wide-ranging form of knowledge"
+"What does it do poorly? Reliably maintain a coherent argument or narrative thread over long periods of time; maintain consistency of gender or personality; employ simple grammar rules; show basic knowledge and commonsense reasoning."
+"GPT-3 demonstrates Moravec’s Paradox, an inverse relationship between human and AI proficiency in cognition" - the easier it is for humans (visual processing and narrative causal reasoning), the harder it is for an AI; and vice versa (mathematical reasoning and waxing philosophical)
+
+"experiments in which both experts and students fail to distinguish between GPT-2 generated text and human"
+
+"one challenge of working with GPTs is determining whether a particular output is error or genius — much in the same way that AlphaGo made a never-before-seen move that was first classified as error but later acknowledged as creative and, indeed, pivotal"
+
+"Both human neurophysiology and cognitive science suggest that cognition may be rooted in a vast fundamental statistical inference engine."
+
+"the importance of building causality and more systematic reasoning into these models"
+
+"AI needs physical embodiment in order to learn, interact and experience the true meaning behind language in order to evolve beyond a mere philosophical zombie"
+

@@ -1,0 +1,63 @@
+Your final presentation must be a video including narration. It generally should include a
+traditional presentation of some sort (including slides)
+
+What is not acceptable: a narration of you scrolling over your final paper. Points will be
+deducted for this
+
+
+What were the important findings?
+The 
+
+How do these findings relate to cognitive science concepts/lessons/principles?
+	The
+
+How did I conduct the literature review?
+Wi
+
+What worked and what did not work during the project?
+What 
+
+What were the lessons learned and key takeaways from my project?
+
+===
+Script:
+Hello, my name is David Strube and this is my presentation for Milestone 3 of the Term Project for CS 6795, Introduction to Cognitive Science. [next]
+
+For this project, I chose to do a literature review focusing on the Turing test, with the intent to explore the following research question: What are the limits of the Turing test  regarding consciousness in artificial intelligence [next]
+
+Here are my findings: first, the Turing test was not originally designed to be a test for consciousness, and instead was intended to be a test for computational intelligence
+
+For any artificial intelligence to be considered conscious, it would have to understand the physical actions of others. This relates to 
+
+[switch to lesson 9]
+
+this slide from lesson 9 which shows that consciousness has both objective and subjective aspects.
+
+[switch back]
+
+Cognitive scientists like Gary Marcus proposed a sort of Turing Olympics, for example, the Allen Institute for Artificial Intelligence (AI2)’s Allen AI Science Challenge, that would explore AI in several various ways like robotics and natural language processing 
+
+Giving a Turing test to any large language model tends to yield a mirror that reflects the intelligence of the interviewer and not that of the AI. This paper referred to Blake Lemoine as an example, the software engineer who worked for Google until he mistakenly concluded that Lambda, the LLM he interviewed, was sentient and deserving of personhood. It is interesting to note that he came to this conclusion after priming the LLM with leading questions that biased it into giving him misleading answers 
+
+Next, the Turing test has been used as a model to confirm consciousness in humans where consciousness was not certain, specifically people in a persistent vegetative state [next]
+
+Moravec’s Paradox states that things that are easy for humans, like visual processing, are hard for machines, and things that are hard for humans, like multiplying 5 digit numbers, are easy for machines. This is an important difference to keep in mind when we ask ourselves questions like "how should we judge whether or not it has consciousness?"
+
+Next, for an AI to pass the Turing test means being indistinguishable from a human, which requires perfectly imitating a human’s flaws, and does not necessarily mean being generally intelligent or conscious
+
+Another interesting paper was one that discussed how a hypothetical Humongous-Table Program, with a database of convincing answers to any question it would be asked in a Turing test, would pass the test but clearly would not be conscious
+
+Similarly, another paper pointed out that some aspects of human cognition seem incompatible with AI research. The Chinese Room thought experiment by John Searle further illustrates how being able to respond to questions (like those in a Turing test) doesn’t equal intelligence or consciousness [next]
+
+It may be that no AI will ever consistently pass the Turing test, but, that doesn’t mean no AI will ever display signs of consciousness, given that the Turing test doesn't necessarily indicate consciousness
+There is some debate as to whether the Turing test is at all useful in exploring consciousness in AI
+If it is useful, it is only as a starting point, or what _not_ to focus on
+The physical embodiment requirement for AI to display signs of consciousness implies that AI would have to have at least a rough approximation of a theory of mind in order to truly possess consciousness [next]
+
+With the exception of the original source material (published in 1950), the literature reviewed for this project was restricted to scientific papers, books, and peer reviewed articles from 2009 and newer.
+
+In conclusion, any future efforts regarding the Turing test should take into account current cognitive science theories of consciousness before attempting to further research the possibilities of consciousness in artificial intelligence [next]
+
+Here are the references for the works cited in this presentation [next]
+
+If you have any questions, please feel free to reach out to me on Ed or via email. Thank you for your time

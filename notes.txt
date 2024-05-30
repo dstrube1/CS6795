@@ -1,0 +1,159 @@
+p10:
+CogSci is combo of: psychology, AI, linguistics, neuroscience, anthropology, & philosophy
+central hypothesis: Thinking can best be understood in terms of representational structures in the mind and computational procedures that operate on those structures.
+
+CRUM: Computational-Representational Understanding of Mind
+
+p13:
+4 levels of abstraction:
+a cognitive theory postulates a set of representational structures and a set of processes that operate on these structures
+a computational model makes these structures and processes more precise by interpreting them by analogy with computer programs that consist of data structures and algorithms
+program: implementation of the model
+platform: OS
+
+p14
+stages of the development of cognitive theories: discovery, modification, and evaluation
+
+p15
+criteria for evaluating theories of mental representation:
+1- Representational power
+2- Computational power
+3- Psychological plausibility
+4- Neurological plausibility
+5- Practical applicability
+
+six approaches to mental representation:
+logic, rules, concepts, images, cases, and connections
+
+p16
+3 kinds higher level thinking:
+-problem solving (planning(start state, calculations, intermediate states, goal state), decision making (best path), explanation (why))
+-learning
+-language (comprehension, utterances, learnability)
+
+p21
+Can you think of any alternatives to the computational - representational understanding of mind?
+intoxication / drug addiction, hallucination / dreams, religion / mythology / lying, near-death-experience, morality, hypnosis, gullibility, epistemology, amnesia, illusion, subconscious, imagination, free association, games / sports, evolution / sex / love / poetry
+
+p24
+Gottlob Frege 1879
+
+p25
+Propositional logic: if-then
+Modal logic: necessity & possibility
+Epistemic logic: knowledge & belief
+Deontic logic: moral ideas
+predicate logic allows breaking down things that propositional logic requires to treat as whole
+
+p27
+Modus ponens: p->q; p, ergo q
+Modus tollens: p->q; ~q, ergo ~p
+
+rule of universal instantiation allows the derivation of an instance from a general statement
+
+p30
+P(p|q): probability of p given q
+
+p31
+planning: trying to figure out how to accomplish a goal
+explanation: trying to understand why something happened
+
+p32
+abduction: form a hypothesis in order to generate an explanation
+
+p33
+Bayes theorem: the probability of a hypothesis given the evidence is equal to the result of multiplying the prior probability of the hypothesis P(h) by the probability of evidence given the hypothesis, all divided by the probability of the evidence;
+P(h|e) = {P(h) * P(e|h)} / P(e)
+P(h|e) * P(e) = P(h) * P(e|h)
+
+p38
+P(p & q) <= P(p): probability of a conjunction is less than or equal to the probability of one of its conjuncts
+
+(logical approach vs mental models: one response to mental model approach is that people are logical, they're just not always very good at it; eg [A]4 vs [IN BAR]21: "should/ought to" is more intuitive than logic rules that would be better understood if they were more clearly explained, eg "Letters are always on one side and numbers on the other- this is a given and not being tested"; another possibility: some people's brains work logically, some do not; or rather, each person is on a spectrum of logicalness)
+
+p40:
+The debate between mental logic and mental model accounts of deductive reasoning now involves three of the methodologies of cognitive science: psychological experiments, computational models, and neurological experiments
+
+p43:
+Allan Newell, in collaboration with John Laird and Paul Rosenbloom, developed SOAR, a powerful rule-based program that has had many technological and psychological applications
+
+p44:
+Rules: If-Then / Condition-Action
+can represent:
+general info
+how to do things / what to do
+linguistic regularities
+rules of inference
+(what else? gather info?: e.g., if (isSomethingTrue()){...})
+
+[
+Welcome Video:
+Sapir-Whorf hypthesis: language (English, Chinese, etc) affects how you think
+Cognitive scientists think it goes the other way
+How does mind work
+Dualism: mind is an abstraction of the brain
+Brain: neurons, neurotransmitters, potassium ions
+behavior
+mind: Goals, beliefs, desires
+system view of mind: perception, action, language, reasoning, memory -> organization -> behaviors
+cognition boundaries: individual brains, distributed cognition, situated cognition, embodied cognition
+limits: is there free will, what is consciousness, what are emotions, is there a soul- not getting into history or philosophy, just the science
+]
+
+p45
+fundamental operation of thinking in logic-based system: deduction
+fundamental operation of thinking in rule-based system: search
+
+heuristic: time-saving shortcut
+inductive generalization: rules formed from examples
+
+p49:
+chunking: rule formed from a series other rules
+specialization: rule formed from a existing rule modified for a specific situation
+
+p50:
+abductive inference: rules-based reasoning
+qualitative evaluation: more usage = more useful
+
+p51:
+rule-based systems have the most psychological applications of all computational-representational approaches
+
+p53:
+the power law of practice:
+the rate of learning slows down as more is learned
+
+p58:
+If the logarithm of the reaction time in a task is plotted against the logarithm of the number of practice trials, the result is a straight line that slopes downward
+
+p61:
+it is cognitively useful to have acquired a package of information that can be applied as a whole
+
+[define concept:
+A kind of: idea...
+define idea:
+A kind of: concept...?]
+
+p63:
+spreading activation: loose association of inheritance-related hierarchy of concepts (eg, desk and chair are both a *kind of* furniture, and drawer is a *part of* a desk, desk is *made of* wood)
+
+p67:
+where rules come from: they can be innate, formed from experience, or formed from other rules
+
+p78
+in AI, analogical reasoning is called case-based reasoning
+target analog: new situation
+source analog: old situation
+
+[Lesson 4: EOL (in VERA): encyclopedia of life
+
+for Assignment 1, see github repo for CS7637, Raven's Problems with Answers, Challenge B-03
+Then check KBAI_RPM_Problems-answers
+Answer is 3, solid black
+reasoning: from A to B, zoom in and then negate
+same for C to D
+]
+
+
+leftoff=p80
+
+===

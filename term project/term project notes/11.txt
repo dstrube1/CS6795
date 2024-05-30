@@ -1,0 +1,49 @@
+Turing Test as a Defining Feature of AI-Completeness - 3-17
+file p19-36
+
+"AI-Complete: Used to describe problems or subproblems in AI, to indicate that the solution presupposes a solution to the `strong AI problem' (that is, the synthesis of a human-level intelligence). A problem that is AI-complete is, in other words, just too hard. ... " Examples include: "The Vision Problem', building a system that can see as well as a human, and `The Natural Language Problem', building a system that can understand and speak a natural language as well as a human."
+
+systems which relied on humans to solve problems which were perceived to be AI-Complete:
+1- AntiCaptcha
+2- "Chinese Room philosophical argument by John Searle shows that including a human as a part of a computational system may actually reduce its perceived capabilities such as understanding and consciousness"
+3- "Content Development online projects such as Encyclopedias (Wikipedia, Conservapedia), Libraries (Project Gutenberg), Video collections (YouTube) and Open Source Software (SourceForge)" - partially solved
+4- "Cyphermint a check cashing system relies on human workers to compare a snapshot of a person trying to perform a financial transaction" - this may have been solved
+5- "Data Tagging systems entice user into providing meta-data for images, sound or video files" - partially solved?
+6- Distributed Proofreaders - solved?
+7- "Interactive Evolutionary Computation algorithms use humans in place of a fitness function to make judgments regarding difficult to formalize concept such as esthetic beauty or taste"
+8- "Mechanical Turk is an Amazon.com’s attempt at creating Artificial Intelligence" - status?
+9- "Spam Prevention is easy to accomplish by having humans vote on emails they receive as spam or not."
+
+"A problem C is AI-Complete if it has two properties:
+1. It is in the set of AI problems (Human Oracle solvable).
+2. Any AI problem can be converted into C by some polynomial time algorithm."
+
+a Turing Test problem is AI-Complete, because
+1- a Turing Test is indeed an AI problem (HO solvable) - HO-Best or HO-Average
+2- Any other AI problem is "convertible into an instance of the Turing Test under consideration in polynomial time via Turing reduction"
+
+Other examples of AI Complete problems:
+Natural Language Understanding
+Problem Solving
+Knowledge Representation and Reasoning
+Vision or Image Understanding
+
+"Chess is not AI-Complete as only limited information can be encoded as a starting position on a standard size chess board"
+
+"Certain aspects of human cognition do not map well onto the space of problems which have seen a lot of success in the AI research field. Internal states of human mind such as consciousness (stream of), self-awareness, understanding, emotions (love, hate), feelings (pain, pleasure), etc. are not currently addressable by our methods."
+
+"Many scientists propose ignoring such internal states or claim they are nothing but a byproduct of flawed self-analysis. Such scientists want us to restrict science only to measurable behavioral actions, however since all persons have access to internal states of at least one thinking machine interest in trying to investigate internal states of human mind is unlikely to vanish."
+
+"one of the fundamental arguments against our ability to implement understanding in a system which is based on symbol manipulation, Searle’s Chinese Room thought experiment, itself relies on a generalized concept of a human as a part of a computational cycle."
+
+"Perhaps a new type of computational architecture will be developed in the future capable of mimicking such internal states. It is likely that it will be inspired by a better understanding of human biology and cognitive science."
+
+"History of AI research is full of unwarranted claims of anticipated breakthroughs and conversely overestimations regarding difficulty of some problems." 
+Solutions for problems which we classify as AI-Complete have been subject to continues steady improvement while those falling in the realm of C-Completeness have effectively seen zero progress
+
+"We are hopeful that the future research in this area will bring some long awaited answers."
+
+lots of typos here:
+"continues" instead of continuous
+"To proceed science needs to better understand what is the difference between a feeling and a though is."
+

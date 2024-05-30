@@ -1,0 +1,33 @@
+"human cognition emerges from a complex, tangled web of explicit, knowledge-based processes and automatic, intuitive “subcognitive” processes,"
+
+"significant innovation in computer technology and data capture have brought the Turing Test back into focus"
+
+this is very much like, but not identical to, literature #1
+
+we need to stop trying to build a machine that "can flawlessly imitate humans"
+
+instead we "should accept the computer as a valid interlocutor and interact with it as an interactive, high-level, sophisticated information source."
+
+given that computers today have access to so much of our information (auditory, visual, written, etc), it is conceivable that they could answer any question that requires any of that information. this would not have been possible 10 years ago.
+
+while it is true that no AI can answer novel questions that require a physical body, are these really good indicators of intelligence?
+
+Also the flaws of human thinking (like our inability to easily multiply two 5-digit numbers) is something that an AI can't reproduce without programming in a contrived hinderance. This is another way in which an AI would fail a Turing test, and another way in which a Turing test is irrelevant for testing an AI
+
+"So, what exactly is the difference between the brute-force computation done by humans and the brute-force computation done by machines?"
+
+"no machine will pass a Turing Test" because no machine can perfectly imitate a human's flaws
+
+ I would be perfectly happy if a machine said to me, “Look, I’m a computer, so don’t ask me any questions that require me to have a body to answer...I can’t pass a Turing Test, but so what? I can still be a very interesting conversationalist. I don’t need to have actually experienced the pain of hitting my hand with a hammer to talk about it." It's like a priest giving marriage counseling even if they can never marry.
+ 
+Computers of the future will be better than us in many ways even if they can't reproduce all of our flaws. (My question remains: they can seem intelligent- what would it take for them to become conscious?)
+
+"the early failures of AI contributed to our deeper understanding of the true complexity of human cognition"
+
+Millions of years of evolution produced our conscious brains, but this may not be the only way to consciousness
+
+It's okay to use computers to understand human cognition; this doesn't mean it's okay to use human cognition as a model for machine cognition.
+
+"Understanding is not something only humans are capable of "... and we will one day have to accept that computers are capable of understanding as well, "even if that understanding is not isomorphic to our own."
+
+Just as interacting with people of other cultures enriches our way of looking at the world, so to will interacting with machines.

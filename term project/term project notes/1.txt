@@ -1,0 +1,26 @@
+starts off with example of how to fool an artificial intelligence- ask it questions that subtly require knowledge of what it's like to have a physical body. 
+
+"Turing test was held up by many as the true litmus test for computational intelligence" - I thought it was about consciousness.
+
+"human cognition emerges from a web of explicit, knowledge-based processes and automatic, intuitive, “subcognitive” processes "
+
+subcognitive processes derive "largely from humans’ direct interaction with the world"
+
+two revolutionary advances in information technology may bring the Turing test out of retirement
+1- the ready availability of vast amounts of raw data from video feeds to complete sound environments, and from casual conversations to technical documents on every conceivable subject
+2- the advent of sophisticated techniques for collecting, organizing, and processing this rich collection of data
+
+Two deep questions for AI arise from this new technology
+1- whether this wealth of data, appropriately processed, could be used by a machine to pass an unrestricted Turing test.
+2- first asked by Turing: whether a machine that had passed the Turing test using this technology would necessarily be intelligent.
+
+Idea: if enough objective accounts / documentation of sensory data were fed into machine learning models, that may help an AI pass any Turing test
+
+"The real challenge is not to store countless petabytes (...) of information, but to selectively retrieve and analyze that information in real time."
+
+IBM "recently unveiled a new generation of experimental “neurosynaptic” computer chips, based on principles that underlie neurons, with which they hope to design cognitive computers that will “emulate the brain’s abilities for perception, action and cognition” (16)."
+
+"Programs already exist that self-monitor their own data processing (17)."
+
+"No one would argue that computer-simulated chess playing, regardless of how it is achieved, is not chess playing. Is there something fundamentally different about computer-simulated intelligence?"
+

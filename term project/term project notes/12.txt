@@ -1,0 +1,27 @@
+"Although computational linguistics remains an important branch of modem AI, the field has expanded into many nonverbal domains related to embodied intelligent behavior, including specialized fields of robotics, image understanding, motor control, and active vision."
+
+"almost no cutting-edge research in cognitive science or AI has a goal of passing the VTT. Indeed, current thinking about the VTT [Verbal Turing Test] is that it is almost a joke (Sundman, 2004), or impossible goal that is not useful for current research (Shieber, 1994;)."
+
+"Hamad [...] has argued that an embodied Turing test is indeed useful, that it is actually the most useful [...], and that it is even consistent with thought experiment originally described by Turing [...]. Consequently, a version of the Turing test may be relevant, but how do we design one that is useful?"
+
+"a general statement of the Turing test has three important aspects, each of which are somewhat ambiguous:
+Measurement of artificial behavior in (1) a specified domain that is (2) indistinguishible from (3) human behavior."
+
+"he described 5 levels of Turing Tests: 1. For a limited task; 2. For verbal context; 3. For sensorimotor context; 4. For internal structure; 5. For physical structure. Hamad argued that although Turing did not mean the first level (Turing-1), the Turing-2 is susceptible to gaming, the most useful version of the test is (Turing-3)."
+
+"a number of levels of "indistinguishible": at the minimum, consider the criterion of competence: the artificial system produces behavior that it at least as good as (and possibly better than) a typical human. A more stringent criteria might be called resemblance, requiring that typical inadequacies exhibited by humans also be made, such as appropriate time profiles and error rates."
+
+"if the goal of developing an artificial agent is to replace a human, either as a teammate or adversary (e.g., for training), it can be useful for the agent to fail in the same ways a human fails."
+unclear how so
+
+"Component tasks of the cognitive decathlon:
+Vision - eg object identification
+Search - eg navigation
+Manual Control and Learning - motor mimicry
+Knowledge Learning - Semantic Memory/Categorization
+Language and Concept Learning - object-noun mapping
+Simple Motor Control - Aimed manual Movements"
+explored and analyzed in further detailed non-linearly
+
+"The goal was to design a comprehensive set of tests that could be accomplished by a single intelligent agent using available technology in the next five years."
+unclear what was the outcome of this plan

@@ -1,0 +1,44 @@
+"To be conscious of something means to be aware of something, which in turn means to feel something. Hence consciousness is feeling, no more, no less. An entity that feels is conscious; an entity that does not feel is not."
+
+So consciousness is purely subjective? Is there a way to objectively measure or verify consciousness?
+Could it also be said that it is an awareness of things? awareness of feelings, thoughts, self-past & self-future
+
+"is feeling what it is like to think (or to understand or to believe or to know) [anything]"
+
+"The facts [...] are outside your head. And those external facts certainly don’t determine whether or not you believe them. Believing is something that is going on inside your head."
+
+"Unconscious belief makes no more sense than unfelt feeling."
+I disagree- I can imagine pain just as I can imagine having a belief
+
+"But it is trivially easy to get a machine to identify something as a cat without feeling a thing. In that case, the identification is not conscious. So just having the data plus the ability to act on it is not enough."
+
+"not only is performance capacity what robotics is about, but it is also what cognitive science is about: Both robotics and cognitive science try to explain the causal basis for performance capacity, the internal mechanism that generates the successful input/output (I/O) function: robotics does it in order to get machines to do useful things for us, and cognitive science, does it in order to explain how we ourselves are able to do such things."
+
+today’s robots don’t feel anything
+
+"The real question [...] for cognitive robotics [...] is whether feeling is a property that we can and should try to build into our robots. [...] We can’t, and hence we shouldn’t even bother to try."
+
+"The problem concerns the causal role of feeling in generating [...] performance, and performance capacity. [...] there are four forces: electromagnetism, gravitation, and the strong and weak subatomic forces. There is no evidence of any further forces. [...] (F)eeling is not a fifth causal force. [...] But the other four forces are all unfelt forces." - disagree- I feel gravity pulling me down to Earth, and I feel electromagnetism in the form of electric shock, magnets pulling and repelling, and electromagnetism in the form of heat, sunburns and vision, and kinetic energy that is caused by atoms repelling each other due to electrons repelling each other. But the point is still taken: feeling is not a fifth causal force.
+
+"mind/matter" (or "mind/body") problem: how do the four forces bring about the mind?
+
+"the explanatory task of biology is to reverse-engineer what evolution built, in order to explain how it works: functionally, causally."
+
+"If we were all just feelingless Darwinian survival machines [...], the methodology and goal of cognitive robotics would be clear and unproblematic: reverse-engineering our performance capacities. This is essentially the Turing test [...] taken as both cognitive science’s means and its end [...]. What Turing’s method appears to miss, however, is feelings. So it is only natural to ask whether there is any way to reverse-engineer feelings too, along with performance capacities."
+
+"the mind/matter problem such a hard [...] problem[ because] we cannot explain how feeling and its neural correlates are the same thing"
+
+"and even less can we explain why adaptive functions are accompanied by feelings at all. Indeed, it is the ‘why’ that is the real problem." - maybe just a side effect? or maybe, earlier quote:
+"It is clear why it would be adaptive for a Darwinian survival machine to learn and plan — and adaptive also for a social population of survival machines to have language, to speak, and to exchange useful information"
+
+"if it turns out that we cannot make functional or causal sense of feeling at all, then cognitive robotics is just I/O performance capacity modeling (exactly as Turing said it was), and there is no point in trying to do anything with or about feeling."
+
+"research [...] on the ‘readiness potential,’ a brain process that precedes voluntary movement, suggests that that process begins before the subject even feels the intention to move. So it is not only that the feeling of agency is just an inexplicable correlate rather than a cause of action, but it may come too late in time even to be a correlate of the cause, rather than just one of its aftereffects"
+
+"six specific questions that were addressed to the AAAI 2008 Fall Symposium on AI and Consciousness:"
+1- Are models of consciousness useful for AI? No.
+2- Are AI systems useful for understanding consciousness? Not at all
+3- What are the theoretical foundations of machine consciousness? There are no theoretical foundations of machine consciousness.
+4- Is machine phenomenology possible? Only as an empty hermeneutic exercise [...] until we design a candidate that actually passes the Turing test
+5- Will conscious systems perform better than unconscious systems? The question should have been the reverse: Will systems that can perform more and better be more likely to feel? The answer to that might be a guarded yes
+6- What are the implementation issues of current AI systems inspired by consciousness? There are no implementation issues inspired by consciousness.

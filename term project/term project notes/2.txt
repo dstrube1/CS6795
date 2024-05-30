@@ -1,0 +1,23 @@
+"The Turing test, as originally conceived, focused on language and reasoning; problems of perception and action were conspicuously absent."
+
+"In the physical world, this means that an agent needs to be able to perform physical actions and understand the physical actions of others."
+
+"the Turing test represents a rather weak tool for measuring the level of demonstrable intelligence"
+
+variants of the Turing test: the Winograd Schema Challenge "supports incremental testing and development"
+"does not, however, address the physical embodiment concerns that are the subject of this article. Nevertheless, any proposed alternative must bring with it a reasonable set of quantifiable measures of performance"
+
+"one would have to write down a set of rules or axioms that correctly captured the appropriate class of movement actions and how they were stitched together to produce a particular spatiotemporally bounded high-level movement"
+
+"the Turing test also does not represent a sufficient condition for intelligence, only evidence for intelligence"
+
+the challenge / goal: "physical embodiment coupled with reasoning and communication, support for incremental development, and the existence of clear quantitative measures of progress"
+
+first proposed : Beyond the Turing Test: AAAI-15 Workshop WS06. January 25, 2015, Austin, Texas
+explored in: a construction track ("building predefined structures (...) given a combination of verbal instructions and diagrams or pictures") and exploration track ("more improvisational in flavor and focus on experiments in building, modifying, and interacting with complex structures in terms of more abstract mental models, possibly acquired through experimentation itself")
+
+Communication through natural language
+
+exploration track: "Rather than having a teacher produce many examples, such self-motivated exploring agents would be able to create alternative scenarios and learn from them on their own"
+"The proposed tests will provide an opportunity to bring four important areas of AI research (language, reasoning, perception, and action) back into sync after each has regrettably diverged into a fairly independent area of research"
+

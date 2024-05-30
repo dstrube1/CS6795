@@ -1,0 +1,10 @@
+"As the field of AI has grown, this Test has become less meaningful as a challenge task for several reasons. First, in its details, it is not well-defined, e.g., who is the person giving the test? A computer scientist would likely know good distinguishing questions to ask, while a random member of the population may not. What constraints are there on the interaction? What guidelines are provided to the judges? Second, recent Turing Test competitions have shown that, in certain formulations, the Turing Test is gameable - people can be fooled by systems that simply retrieve sentences, and make no claim of being intelligent [2,3]. As The New York Times's John Markoff puts it, the Turing Test is more a test of human gullibility than machine intelligence. Finally, the test, as originally conceived, is pass/fail rather than scored, thus providing no measure of progress towards a goal, something essential for a challenge problem"
+
+"Turing himself did not conceive of the Turing Test as a challenge problem to drive the field forward, but rather as a thought experiment about a useful alternative to the question of "Can machines think?"."
+- but it is useful to drive the field forward, in my opinion, as a general principle asking the big question: how can AI be improved? (setting aside the question of should it be improved)
+
+" Rather than a single test, cognitive scientist Gary Marcus of NYU and others recently proposed the notion of series of tests, a Turing Olympics of sorts, that could assess the full gamut of AI from robotics to NLP"
+
+"In 2016, the Allen Institute for Artificial Intelligence (AI2) ran the Allen AI Science Challenge, a competition to test machines on an ostensibly difficult task, namely answering 8th Grade science questions."
+This competition predates the LLM revolution. The questions are probably all easily answered by ChatGPT or Bard, making this spin on the Turing test boring; but the other points above are interesting.
+

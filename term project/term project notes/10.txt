@@ -1,0 +1,11 @@
+Suppose there is a very simple but vastly informed program called the Humongous-Table (HT) Program, which simply looks up in a table what to say next. 
+If this program had all of the most convincing answers to all questions a human would ask it stored in its table, it could pass the Turing test, but would it be sufficient to prove that a computer program was intelligent?
+This assumes that 
+1- the HT program is exhaustive, ie, without vaguely imagined tricks
+2- the HT is not a Wizard of Oz / mechanical Turk setup with a human behind the curtain
+3- the current state of cognitive science allows for the possibility of a computational model of the human mind
+
+"the Humongous-Table Program Argument is the only argument ever marshalled against the sufficiency of the Turing Test" - false, but still an interesting thought experiment
+
+"seemingly intelligent behavior can be produced by unintelligent means, whereas real intelligence cannot, so a behavioral test could always be fooled."
+

@@ -1,0 +1,40 @@
+alternatives to Turing test: 2 descriptive models for evaluating creative software: 1: "the FACE model which describes creative acts performed by software in terms of tuples of generative acts", and 2: "the IDEA model which describes how such creative acts can have an impact upon an ideal audience, given ideal information about background knowledge and the software development process"
+
+"most AI researchers see it as a distraction from their goals, encouraging a mere trickery of intelligence and ever more sophisticated natural language front ends, as opposed to focussing on real problems" ?!
+
+"Computational Creativity (CC) is a subfield of AI, in which researchers aim to model creative thought by building programs which can produce ideas and artefacts which are novel, surprising and valu- able, either autonomously or in conjunction with humans. There are three main motivations for the study of Computational Creativity:
+• to provide a computational perspective on human creativity, in order to help us to understand it (cognitive science);
+• to enable machines to be creative, in order to enhance our lives in some way (engineering); and
+• to produce tools which enhance human creativity (aids for creative individuals)."
+
+"Creativity can be subdivided into everyday problem-solving, and the sort of creativity reserved for the truly great, in which a problem is solved or an object created that has a major impact on other people. These are respectively known as “little-c” (mundane) and “big-C” (eminent) creativity"
+
+"two notions of evaluation in CC: (i) judgements which determine whether an idea or artefact is valuable or not (an essential criterion for creativity) and (ii) judgements to determine whether a system is acting creatively or not."
+
+"there are huge philosophical problems with using a test based on imitation to evaluate competence in an area of thought which is based on originality"
+
+"the ‘discrimination test’, which is analogous to the TT, in which subjects are played segments of both machine and human-generated music and asked to distinguish between them"
+
+"Hofstadter’s argument that interaction with a system at an arbitrarily deep level can shed great insight into the processes it uses to generate its output"
+
+"an interpretation of the Turing Test which is specifically designed for computer art systems"
+
+"instead of continuing to judge the computer’s capabilities directly against those of the human mind, the potentials of the computer as an ‘alternative intelligence’ can be explored"
+
+"TT forces us into the undesirable position, to paraphrase Hofstadter, of trying to make a machine act like it is not a machine"
+
+[and other criticisms]
+
+The FACE model assumes eight kinds of generative acts, which produce the following kinds of results:
+Fp: a method for generating framing information 
+Fg: an item of framing information
+Ap: a method for generating aesthetic measures 
+Ag: an aesthetic measure
+Cp: a method for generating concepts
+Cg: a concept
+Ep: a method for generating expressions of a concept 
+Eg: an expression of a concept
+
+IDEA: an (I)terative (D)evelopment (E)xecution (A)ppreciation cycle within which software is engineered and its behaviour is exposed to an audience
+
+"assume an ideal audience of individuals i, which is able to provide two indicators of the effect that an individual creative act, A, has had on them: (a) an indication of their change in well-being, wbi(A), between -1 and 1, with -1 indicating that they felt worse, +1 indicating that they felt better, and 0 indicating ambivalence, and (b) an indication between 0 and 1 of the cognitive effort they spent in trying to appreciate a cre- ative act and the artefact(s) it produced, cei(A)"

@@ -1,0 +1,15 @@
+"a formal approach to the Turing test. This approach is based on a tool developed within Inferential Erotetic Logic, so called erotetic search scenarios"
+from wikipedia: Erotetics or erotetic logic is a part of logic, devoted to logical analysis of questions. It is sometimes called the logic of questions and answers.
+
+"how to select the interrogator (sometimes called the judge) to take part in the TT; the second one, is how should the interrogator run the test."
+
+"Alan Turing’s suggestion here was that the interrogator should be a person who is not an expert in the field of computing machines"
+
+Minimum Intelligent Signal Test
+
+The Loebner Test : how to choose the interrogator (judge).
+
+"the Golden Path Theorem [...] states that, if an initial question is sound and all the initial premises are true, then an [erotetic scenario] contains at least one golden path. This path leads to a true direct answer to the initial question of the [erotetic scenario]."
+
+"the final result of the [Turing test] relies heavily on the knowledge and beliefs of the interrogator"
+

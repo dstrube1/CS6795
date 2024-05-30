@@ -1,0 +1,33 @@
+"measuring reaction times to describe the cognitive cost of processing information"
+
+"a protocol inspired by the Turing Test to investigate the relation between violations of Grice’s Cooperation Principle and the response times of the participants"
+
+"violations of the maxim of Relation significantly increased the response time"
+
+"evaluating the quality of the generated responses of automated assistants is quite complicated, in particular without a specific task to complete, which is the case for chatbots: agents for which the main goal is conversing itself"
+
+"Because of the dynamic aspect of conversations, finding a gold standard to evaluate the naturalness of a conversation partner remains difficult. Many different evaluation methods exist, yet few explore the pragmatics of conversations"
+
+Pragmatics of conversation
+Grice’s Cooperation Principle: Make your conversational contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged
+divided into four different maxims:
+Quality - don't lie
+Quantity - don't say too much or too little
+the maxim of Relation: Be relevant.
+Maxim of Manner: : 1: “Avoid obscurity of expression.”, 2: “Avoid ambiguity.”, 3: “Be brief (Avoid unnecessary prolixity).” and 4: “Be orderly.”
+
+"Violations of the maxim of relation have an important effect on the conversation partners. Since they will still assume that violating it gives an information on the intention of the speaker. People will indeed assume that they are not comfortable with the topic and want to change subjects. Yet when they believe the speaker is a machine, they simply assume that it did not understand them and will qualify it as not being humanlike"
+
+"Studies on such aspects of language are often only qualitative because of the difficulty of producing operational protocols with statistically analyzable measures [...] Yet with the advances of Artificial Intelligence, new methods can be developed to study the natural language, as artificial entities are now common enough and efficient enough to be believably used in the context of psychological experiments"
+
+"[The TT] can be used to study human conversations without the need to involve an Artificial Intelligence, by just letting the participants believe they will be conversing with one"
+
+"our goal is not to test the intelligence of a conversational partner, but rather to test the humanness of its behavior."
+
+"presenting one [human] interlocutor as being an Artificial Intelligence will remain a part of our protocol."
+
+"we will focus on two Gricean Maxims that are often violated by virtual conversational agents: the first maxim of Quantity and the maxim of Relation."
+
+"violations of the maxim of Relation, the success rate (70% of correct identifications) shows a tendency to differ from a random chance while no difference could be found in the condition of violations of the maxim of Quantity"
+In other words, if you say too much or too little, you can still seem human; but saying too much random irrelevant stuff makes one seem less human
+

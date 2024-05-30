@@ -1,0 +1,37 @@
+TT "hinges on the ability of machines to fool people into thinking that they (the machines) are people" - not the same as being intelligent
+
+TT is "widely recognized as a pioneering landmark, but also is now seen as a distraction, designed over half a century ago, and too crude to really measure intelligence"
+
+"the original test, at least in its standard implementations, has turned out to be highly gameable, arguably an exercise in deception rather than " intelligence
+
+"2015 Turing test winner Eugene Goostman, for instance, pretends to be a thirteen-year-old foreigner and proceeds mainly by ducking questions and returning canned one-liners; it cannot see, it cannot think, and it is certainly a long way from genuine artificial general intelligence."
+
+a new suite of tests: the Turing Championships is designed "to move the field forward, toward previously unconquered territory"
+
+"standardized tests developed for children offer one starting point for testing machine intelligence"
+
+"an alternative test called SQUABU (science questions appraising basic under- standing) that aims to asks questions that are easy for people but hard for computers"
+
+* "a crowdsourced comprehension challenge, in which machines will be asked to answer open-ended questions about movies, YouTube videos, podcasts, stories, and podcasts"
+
+"social-emotional intelligence and pro- poses a methodology for designing tests that assess the ability of machines to infer things like motiva- tions and desires (often referred to in the psycholog- ical literature as theory of mind.)"
+reminds me of the suddenly increasingly dark questions (which would have been horrifying to a human) I asked ChatGPT which responded emotionlessly
+
+"AI systems that can make significant, even Nobel-worthy, scientific discoveries"
+
+* "a test of commonsense reasoning that is set in a linguistic context"
+
+*: meh, might not even be worth mentioning
+
+"tests, such as a construction challenge (build something given a bag of parts), that focus on four aspects of intelligence: language, per- ception, reasoning, and action" - [6]
+
+"using visual question answering as an essential part of a multimodal challenge to measure intelligence"
+
+"tests where competitors must not only match human behavior but also do so in a way that is consistent with human physiology"
+
+* "a methodology for designing a test that consists of a series of varied events, in order to test several dimensions of intelligence"
+
+"several desirable features for an inducement prize contest, contrasting them with the current Turing test"
+
+"synergy between human and machine, and the development of conjoint superhuman intelligence"
+

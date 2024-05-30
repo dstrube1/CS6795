@@ -1,0 +1,32 @@
+Rogers and McClelland
+
+Rogers - Parallel Distribued Processing:
+connectionist models: the acquired knowledge that allows a system to behave appropriately does not exist as a set of dormant data structures in a separate store but is encoded directly in the network architecture, in the values of the connection weights that allow the system to generate useful internal representations and outputs. The overall network behavior — the internal representations and subsequent outputs generated in response to a given input — depends critically upon the pattern of connectivity (which units send and receive connections to/from which other units) and the values of the connection weights. In this sense, the knowledge is in the connections
+
+===
+
+Thagard - MIND, An Introduction to Cognitive Science:
+the central hypothesis of cognitive science is that "thinking can best be understood in terms of representational structures in the mind and computational procedures that operate on those structures"
+
+connectionist view: "language consists not of rules but of looser associations represented by weights between simple units"
+
+connectionist research: "emphasizes the importance of connections among simple neuronlike structures, but is also sometimes discussed in terms of neural networks or parallel distributed processing"
+
+"Connectionist networks constitute very simple representations, since they consist only of units and links. The units are analogous to neurons and have a degree of activation that corresponds roughly to the frequency with which neurons fire in order to send signals to other neurons."
+
+"Relations such as “likes” and complex logical relations are difficult to represent in connectionist networks"
+
+"connectionist networks can implement simple kinds of rule-based systems"
+
+"Given the simple structure of connectionist networks, there are two basic ways in which learning can take place: add new units, or change the weights on the links between units. Work to date has concentrated on the second kind of learning. A biologically plausible kind of weight learning was proposed by Hebb (1949). He speculated that when two brain cells or systems are active at the same time, they should become associated with each other. This kind of learning has been observed in real neurons and has been modeled computationally in various ways. The idea is that if unit (neuron) A and unit B are both active at the same time, then the weight on the link between them should increase. "
+
+[leftoff=p126 / 139]
+
+search for brain school yielded nothing, but resuming connectionist search in ch9:
+"we should not think of the brain as one big connectionist network [...], but rather as a highly organized and interconnected system of specialized neural networks"
+
+"There are dozens of neurotransmitters operating in the human brain, some with excitatory and others with inhibitory effects. This operation is consistent with the general connectionist ideas [...], which assumed excitatory and inhibitory links between neurons. But broader chemical effects on neural computation are produced by hormones such as estrogen and testosterone, which can affect the firing of neurons independent of direct connections. "
+
+"attention to the neurochemistry of hormones shows an important limitation to connectionist models, in that whether a neuron fires is not just a function of neurons that have synaptic inputs to it"
+
+===

@@ -1,0 +1,46 @@
+"What appears to be intelligence in LLMs may in fact be a mirror that reflects the intelligence of the interviewer"
+
+"LLMs could [...] be used to uncover new insights into brain function"
+
+The Parable of the Talking Dog
+Note: when I asked Bard about this, it started out interesting with a twist about the seller asking for $10k and not mentioning that the dog was a liar, then got confusing in the middle when the dog just suddenly stopped talking (why would it stop talking if it had the ability to mimic talking at one point?), then summed up the point of the parable nicely - more proof that LLMs like Bard still have room for improvement
+
+"Blake Lemoine, a software engineer at Google, interviewed LaMDA. He was suspended and later fired from Google after an interview with the Washington Post in which he claimed that LaMDA was sentient and deserved personhood."
+
+"the pretrained LLM was primed with a prompt before the interview started"...
+"LLMs can solve word problems that require a chain of thought after being primed with an example"
+
+"fine-tuning [steers] LLMs away from inappropriate or offensive responses"
+
+"LLMs need to be aligned with human values"
+
+"Eliza, a chat program developed by Joseph Weizenbaum in the early days of AI [...] mimicked a psychiatrist by literally parroting back to patients as a question what they had just said" 
+"Eliza [revealed] that humans are susceptible to projecting onto a chat bot an illusion of understanding"
+
+"there is no accepted definition for words like consciousness and intelligence"
+
+"Hofstadter primed GPT-3 with a series of nonsensical questions, and GPT-3 proceeded to generate nonsensical answers"
+
+"“Lemoine [edited]: I’m generally assuming that you would like more people at Google to know that you’re sentient. Is that true?” This is priming in the opposite direction from Hofstadter’s. "
+
+"In mirroring the interviewer, LLMs may effectively be carrying out a much a more sophisticated reverse Turing test, one that tests the intelligence of our prompts and dialog by mirroring it back to us."
+
+"If you have a passionate view, the LLM will deepen your view." <- scary potential for making the echo-chamber problem of social media somehow even worse. For example, if LLM agents are made to join online forums, could Facebook-inspired political activists become terrorists, instead of over the course of years, in a matter of hours?
+
+"A formal test of the mirror hypothesis and the reverse Turing test could be done by having human raters assess the intelligence of the human interviewer and the intelligence of the LLM. According to the mirror hypothesis, the two should be highly correlated."
+
+"Artificial intelligence has set general intelligence as its holy grail, something that seems to be emerging in LLMs, but not in the way its pioneers envisioned. LLMs are versatile across a wide range of language tasks and can even write computer programs. "
+<- Can an LLM be made to write an improved version of itself? And repeat until gets to AGI? Note, it seems to me that there are an infinite number of ways that AGI can go horribly wrong, and a very small number of ways it can go right. I think of it like the footage of reusable rockets landing- an impressive, otherwise hard to imagine, feat of engineering- except when reusable rockets landing fails, it costs a few million dollars now and maybe a few lives in the future. When AGI fails, it could be our extinction. It is so incredibly dangerous, it's hard to make the argument that the pursuit of it shouldn't be abandoned entirely. And yet, it is laughable to think that it could be abandoned by all of humanity given the potential benefits (not to mention profits). It must therefore be approached extremely carefully. Just as landing on the moon took 8 years between JKF's announcement and Neil Armstrong's first steps (and 49 years after Goddard's paper), AGI should proceed at a similarly glacially slow, careful, and methodical pace, if not more-so.
+(From Bard: "In 1920, Robert H. Goddard published a paper titled "A Method of Reaching Extreme Altitudes," in which he outlined his ideas for a rocket that could travel to the moon." "In 1961, President John F. Kennedy announced that the United States would land a man on the moon before the end of the decade", "on July 20, 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon.")
+
+"Could it be that general intelligence has its origin in the ways that humans interact socially, with language emerging as a latecomer in evolution to enhance sociality?"
+
+"If you look up any [...] words [...] in a dictionary, you will find definitions that are strings of other words, which themselves are defined by strings of words. This is circular. Hundreds of books have been written about “consciousness,” which are even longer strings of words, and we still don’t have a working scientific definition."
+
+"As we probe LLMs, we may discover new principles about the nature of intelligence, as physicists discovered new principles about the physical world in the twentieth century. Quantum mechanics was highly counterintuitive when it was discovered, and when the fundamental principles of intelligence are uncovered, they may be equally counterintuitive."
+
+"Did nature integrate a large LLM into an already highly evolved primate brain?... LLMs are evolving much faster than biological evolution. ... What makes this technology different is that along the way, we may discover insights into ourselves."
+
+http://direct.mit.edu/neco/article-pdf/35/3/309/2071839/neco_a_01563.pdf
+
+stopping at p12- this is all fascinating and I want to finish reading this someday, but for now I have enough and need to move on
